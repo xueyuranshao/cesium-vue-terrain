@@ -1,0 +1,26 @@
+{
+  "name": "cesium-vue-terrain",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@zip.js/zip.js": "2.7.34",
+    "cesium": "^1.123.0",
+    "cesium-wind-layer": "^0.9.0",
+    "vue": "^3.5.32"
+  },
+  "devDependencies": {
+    "@types/node": "^24.12.2",
+    "@vitejs/plugin-vue": "^6.0.5",
+    "@vue/tsconfig": "^0.9.1",
+    "typescript": "~6.0.2",
+    "vite": "^8.0.4",
+    "vite-plugin-static-copy": "^3.1.4",
+    "vue-tsc": "^3.2.6"
+  }
+}
