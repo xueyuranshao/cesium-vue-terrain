@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# cesium-vue-terrain
-洋流风场地形热力
-=======
 ﻿# Cesium Vue Terrain
 
 基于 Vue 3、TypeScript、Vite 和 Cesium 的地形热力与洋流粒子可视化项目。
@@ -127,4 +123,3 @@ npm run preview
 
 - `protobufjs` 内部使用 `eval`。
 - 打包后的主 chunk 体积较大。
->>>>>>> 920ec93 (初始化 Cesium 地形热力与洋流可视化项目)
