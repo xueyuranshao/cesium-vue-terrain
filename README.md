@@ -123,3 +123,5 @@ npm run preview
 
 - `protobufjs` 内部使用 `eval`。
 - 打包后的主 chunk 体积较大。
+
+#### 特别注意: 需要魔法上网！！！！
